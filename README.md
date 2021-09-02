@@ -1,6 +1,5 @@
-# eTholle
+# **eTholle**
 
-# eTholle
 
 # 1. App function
 
